@@ -3,6 +3,8 @@ College Fest Website aka Spandan 2022 University Fest Website is an Web Platform
 
 Screenshots
 
+![image](https://user-images.githubusercontent.com/86348390/196563802-bfe443f9-edaf-4ddd-a0e2-4bf7de866145.png)
+![image](https://user-images.githubusercontent.com/86348390/196563849-8bec10f7-dc81-48e8-9ba9-e1c7468eb1fe.png)
 
 
 ![ssss](https://user-images.githubusercontent.com/94804215/196562707-a990530a-8166-48da-97b5-f2658fe108a5.PNG)
